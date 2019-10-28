@@ -1,0 +1,33 @@
+ion-toolbar{
+    --background: rgba(0, 0, 0, 0.945);
+    color: white;
+    text-align: center;
+    display: flex;
+
+}
+
+  ion-label{
+    font-weight:bolder;
+    font-size: 18px;
+    
+  }
+  span{
+     font-size: 20px;     
+  }
+  ion-card-content{
+    border: 3px solid  rgba(0, 0, 0, 0.945);
+      
+  }
+  ion-card-header{
+      text-align: center;
+      font-size: 30px;
+      --background: rgba(0, 0, 0, 0.945);
+      color: bisque;
+  }
+
+  ion-card-title{
+      color: bisque;
+  }
+ion-card{
+    height: 500px;
+}
